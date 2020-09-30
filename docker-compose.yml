@@ -1,0 +1,11 @@
+version: '3'
+services:
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: 5fbf7bac70a0
+    ports:
+    - "8888:8888"
+    volumes:
+    - .:/workdir
