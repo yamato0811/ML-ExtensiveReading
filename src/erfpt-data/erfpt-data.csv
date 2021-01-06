@@ -1,0 +1,37 @@
+item_id,code,name,word_count,publisher,level
+13,C2,Miranda,518,Cambridge,5
+14,P1,Girl Meets Boy,348,Penguin,6
+15,O1,New York,629,Oxford,7
+16,P2,Emil and the Detectives,529,Penguin,8
+17,O3,Ethan Frome,699,Oxford,8
+18,O6,Silas Marner,647,Oxford,10
+19,C5,High Life Low Life,664,Cambridge,10
+20,O7,Brat Farrar,666,Oxford,11
+21,E4,[practice]Come Home,374,Cengage,3
+22,E2,The Beautiful Game,400,Cengage,4
+23,E1,Kitchen Love Story,389,Cengage,5
+24,C1,Let me out,314,Cambridge,4
+25,C3,Presidents murder,496,Oxford,5
+26,C4,Apollos Gold,514,Cambridge,7
+27,M1,David Copperfield,504,Macmillan,11
+28,M2,Nelson Mandela,506,Macmillan,13
+29,M3,Moby Dick,497,Macmillan,13
+30,O2,Picture of Dorian Gray,551,Oxford,8
+31,O4,Skyjack,387,Oxford,8
+32,O5,Moonspinners,579,Oxford,10
+33,O8,Decline,565,Oxford,14
+40,E5,Bad Dog,348,Cengage,2
+43,E6,Rain,508,Cengage,2
+44,E7,Old Boat,437,Cengage,2
+45,P4,The Ghost of Izieu,495,Penguin,9
+47,E14,Joe Faust,503,Cengage,12
+48,E13,Reunited,486,Cengage,12
+54,P3,Blood Ties,344,Penguin,9
+55,E12,Go Jimmy,604,Cengage,3
+56,E10,I Always Win,507,Cengage,3
+57,E11,Quick Thinking,504,Cengage,3
+58,E8,Singer,507,Cengage,2
+59,E9,Trouble at the Zoo,549,Cengage,2
+60,G3,The House in the Water,961,Gutenburg,17
+61,G2,The Backwoods of Canada,783,Gutenburg,16
+62,G1,Roughing it in the bush,699,Gutenburg,18
